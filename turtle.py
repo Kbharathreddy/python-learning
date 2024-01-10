@@ -9,6 +9,6 @@ squary.pencolor("red")
 squary1.pencolor("blue")
 for i in range(800):
     squary.forward(i)
-    squary.right(162)
+    squary.right(62)
     squary1.forward(i)
-    squary1.left(130)
+    squary1.left(62)
