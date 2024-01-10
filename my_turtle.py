@@ -2,7 +2,7 @@ import turtle
 turtle.bgcolor("white")
 
 squary=turtle.Turtle()
-suaqry1=turtle.Turtle()
+squary1=turtle.Turtle()
 squary.speed(10)
 squary1.speed(10)
 squary.pencolor("red")
